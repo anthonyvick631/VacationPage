@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    background-image: url(images/vacation_header.jpg); /* Adjust the image filename and path */
+    background-size: cover; /* This will make sure the image covers the entire header */
+    height: 300px; /* Adjust the height of your header */
+    text-align: center; /* You can adjust the text alignment as needed */
+    color: white; /* Adjust the text color for better visibility */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Add additional styles as needed for the rest of your webpage */
